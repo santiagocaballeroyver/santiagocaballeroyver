@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Sobre mi/About me:</h1>
 
-<!--
-**santiagocaballeroyver/santiagocaballeroyver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Soy Santiago, Economista y Data Analyst de <img src="https://github.com/juancamilogutman/juancamilogutman/assets/113860274/a059f5be-86dd-473f-aff3-2f63414ef9b0" width="13"/> <b>Buenos Aires, Argentina</b>. Soy licenciado en Economía de la Universidad de Buenos Aires, actualmente me encuentro profundizando mi formación en un curso en Analisis de Datos en Coder House, mejorando mis habilidades analíticas y ampliando mi experiencia en campos relevantes.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫: santiagocaballeroyver@gmail.com
+
+<h3>Herramientas con las que trabajo/Tools I work with:</h3>
+<p>  
+  
+  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+  ![Stata](https://img.shields.io/badge/STATA-025E8C?style=for-the-badge)
+  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+</p>
+
+
