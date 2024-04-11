@@ -17,4 +17,9 @@
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </p>
 
+### Más sobre mí/More about me:  
+
+[<img align="left" alt="LinkedIn"       width="30px" src="https://img.icons8.com/?size=64&id=118979&format=png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/santiagocaballeroyver
 
